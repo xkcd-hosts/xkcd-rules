@@ -22,3 +22,18 @@ We all know what this means. But, to be clear, spam is:
 - rapidly submitting posts
 - that are not meaningful to everyone else
 - and distracting to everyone else.
+
+6. ### Do accept PMs
+The hosts may use PMs to intervene if you're breaking the rules. If you get a PM request, please accept it. 
+
+======
+
+## Consequences
+
+When you break the rules, there will be consequences. In general, they will be delivered in the order listed below, but some may be skipped at the discretion of the hosts.
+
+- a discussion, either in public or in a PM room, about your actions
+- removal of offending content
+- a short time-out (up to 24 hours)
+- a temporary ban (up to 30 days)
+- a permanent ban
